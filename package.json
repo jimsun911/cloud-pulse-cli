@@ -1,0 +1,20 @@
+{
+  "name": "cloud-pulse-cli",
+  "version": "0.1.0",
+  "description": "A lightweight CLI tool to monitor multi-cloud endpoint latencies and service health.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "monitoring",
+    "cloud",
+    "latency",
+    "s390x",
+    "linux"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
